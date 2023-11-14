@@ -3,7 +3,7 @@ Comparing the Performance of the Rectangular Shared Memory Kernels with  grid (1
 ## Aim:
 To demonstrate the Matrix transposition on shared memory with grid (1,1) block (16,16).
 ## Procedure:
-### Step 1 :
+### Step 1 ::
 
 Include the required files and library.
 ### Step 2 :
